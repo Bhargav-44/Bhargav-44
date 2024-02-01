@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-44&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav-44" /> </p>
 
-- 🌱 I’m currently learning **Java|DSA**
+- 🌱 I’m currently learning **Computer Vision | Deep Learning**
 
 - 📫 How to reach me **bhargavva46@gmail.com**
 
